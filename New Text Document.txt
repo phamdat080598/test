@@ -1,2 +1,6 @@
 xin chao ban!!
+<<<<<<< HEAD
 pham da324,fkjdgsakfvbasdfdsafjkasdbf
+=======
+pham da324,sakfvbasd
+>>>>>>> 10db210d4a835c1754c331dbaf43f43df5ae3922
